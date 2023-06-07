@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FigureСalculator/1.0.0": {
+        "dependencies": {
+          "FigureCaclulatorExtentions": "1.0.0"
+        },
+        "runtime": {
+          "FigureСalculator.dll": {}
+        }
+      },
+      "FigureCaclulatorExtentions/1.0.0": {
+        "runtime": {
+          "FigureCaclulatorExtentions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FigureСalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigureCaclulatorExtentions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
